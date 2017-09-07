@@ -1,0 +1,5 @@
+## Interface: 11200
+## Author: Mobia/Nennis
+## Title: beneDeath
+## Notes: Counts how many humanoids have died, in eye of divinity quest.
+beneDeath.lua
